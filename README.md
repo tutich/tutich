@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm tutich</h1>
-<h3 align="center">A passionate frontend developer from</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tutich&label=Profile%20views&color=0e75b6&style=flat" alt="tutich" /> </p>
 
 <p align="left"> <a href="https://twitter.com/peterrmufc" target="blank"><img src="https://img.shields.io/twitter/follow/peterrmufc?logo=twitter&style=for-the-badge" alt="peterrmufc" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, Javascript frameworks, & REACT**
+- 🌱 I’m currently learning **REACT frameworks, Backend**
 
 - 📫 How to reach me **pkoinange02@gmail.com,X,Linkedin**
 
