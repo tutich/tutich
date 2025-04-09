@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/peterrmufc" target="blank"><img src="https://img.shields.io/twitter/follow/peterrmufc?logo=twitter&style=for-the-badge" alt="peterrmufc" /></a> </p>
 
-- 🌱 I’m currently learning **REACT frameworks, Backend**
+- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **pkoinange02@gmail.com,X,Linkedin**
+- 📫 How to reach me **pkoinange02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
